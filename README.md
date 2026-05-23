@@ -1,3 +1,6 @@
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0e75b6&height=200&section=header&text=Sachin%20Gandu&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Sachin Gandu's Custom Header" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=580&height=50&lines=Hi%2C+I'm+Sachin+Gandu+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Real-World+Projects+%E2%9A%A1" alt="Typing Animation" />
 </div>
@@ -52,13 +55,24 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
+
+## Git Insights & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=sachinpcd&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Languages" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api?username=sachinpcd&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000" alt="General Stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sachinpcd&theme=tokyonight&background=00000000" alt="Contribution Streak" width="60%" />
+</p>
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SachinPCD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SachinPCD" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpcd&" alt="sachinpcd" /></p>
-
 
 <br><br>
-<p align="center" width=100%vh>
-  <img src="https://camo.githubusercontent.com/3fdaea8b0e5e03d3e73739353d12709e07ea3d7d3bf7d3a3586634dc1ef02098/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f7465722677696474683d313030" width="100%" alt="Wavy Footer Banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,105:0e75b6&height=100&section=footer&width=100" width="100%" alt="Wavy Footer Banner" />
 </p>
