@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinpcd" alt="sachinpcd" /></a> </p>
 
 <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" style="margin-top: -40px; margin-right: 20px; border-radius: 10px;" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" align="right" style="margin-top: -40px; margin-right: 20px; border-radius: 10px;" alt="Coding GIF">
   
-  ### sachinpcd
+  ### SachinPCD
   - 🍟 I'm currently working on **JWT Systems & Authentication**
   - 🍟 I'm learning **Advanced Backend Architecture**
   - 🍟 All of my projects are available at [Portfoliio](https://sachinpcd.vercel.app/)
@@ -21,7 +21,12 @@
 
 <br clear="both">
 
----
+<br clear="both">
+
+<!-- Replacing the old '---' line with the glowing animated divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="Data Capsule Animated Divider" />
+</p>
 
 ## Connect with me
 
@@ -32,7 +37,6 @@
 <a href="https://www.leetcode.com/sachinpcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachinpcd" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sachinpcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sachinpcd" height="30" width="40" /></a>
 
----
 
 ## Languages and Tools
 
@@ -51,8 +55,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SachinPCD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SachinPCD" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinpcd&show_icons=true&locale=en&layout=compact" alt="sachinpcd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinpcd&show_icons=true&locale=en" alt="sachinpcd" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpcd&" alt="sachinpcd" /></p>
+
+
+<br><br>
+<p align="center" width=100%vh>
+  <img src="https://camo.githubusercontent.com/3fdaea8b0e5e03d3e73739353d12709e07ea3d7d3bf7d3a3586634dc1ef02098/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f7465722677696474683d313030" width="100%" alt="Wavy Footer Banner" />
+</p>
