@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinpcd&label=Profile%20views&color=0e75b6&style=flat" alt="sachinpcd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinpcd" alt="sachinpcd" /></a> </p>
 
 <div>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" align="right" style="margin-top: -40px; margin-right: 20px; border-radius: 10px;" alt="Coding GIF">
